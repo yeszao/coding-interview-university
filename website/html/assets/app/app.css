@@ -1,0 +1,27 @@
+.tip{
+    border: 1px solid #cfcfcf;
+    border-radius: 3px;
+    padding: 15px 22px;
+    position:fixed;
+    min-width:300px;
+    max-width:350px;
+    width: auto;
+    height:auto;
+    min-height:100px;
+    background:#efefef;
+    display:none;
+    line-height: 1.5em;
+}
+.tip .origin {
+    color: black;
+    font-weight: 700;
+}
+.tip .phonetic {
+    color: #5fa207;
+}
+.tip .content {
+    font-size: 85%;
+}
+.tip .prefix {
+    color: #7a7a7a;
+}
